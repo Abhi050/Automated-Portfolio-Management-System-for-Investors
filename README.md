@@ -38,4 +38,6 @@ This is my first project where I have deployed my model. I am still learning and
 
 Linkdin: https://www.linkedin.com/in/abhi050
 
+Github Repo: https://github.com/Abhi050/Automated-Portfolio-Management-System-for-Investors
+
 Email:   abhi.pradhan389@gmail.com
